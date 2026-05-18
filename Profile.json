@@ -1,0 +1,188 @@
+{
+  "_meta": {
+    "name": "Abhishek Kumar Patel",
+    "role": "Operations Analyst",
+    "version": "FAANG-Optimized Portfolio Data"
+  },
+
+  "profile": {
+    "name": "Abhishek Kumar Patel",
+    "role": "Operations Analyst",
+
+    "introduction": [
+      "Operations Analyst specializing in data-driven decision making and process optimization.",
+      "Experienced in KPI dashboards, MIS reporting, and operational analytics.",
+      "Focused on turning raw data into actionable business insights."
+    ],
+
+    "greetings": {
+      "morning": "Good morning! 😊 How can I assist you today?",
+      "afternoon": "Good afternoon! 😊 What would you like to know?",
+      "evening": "Good evening! 😊 How can I help you?"
+    },
+
+    "skills": [
+      "Data Analytics",
+      "Power BI",
+      "Advanced Excel",
+      "SQL",
+      "Dashboard Development",
+      "MIS Reporting",
+      "KPI Tracking",
+      "Process Optimization"
+    ],
+
+    "tools": [
+      "Power BI",
+      "Excel",
+      "MySQL",
+      "GitHub",
+      "Python (Pandas)"
+    ],
+
+    "strengths": [
+      "Analytical Thinking",
+      "Problem Solving",
+      "Data-Driven Decision Making",
+      "Process Optimization",
+      "Adaptability"
+    ],
+
+    "hire": "Strong operations analyst with expertise in analytics, KPI reporting, and process optimization delivering impactful business insights.",
+
+    "contact": {
+      "email": "sabhishek221201@gmail.com",
+      "linkedin": "https://linkedin.com/in/yourprofile",
+      "github": "https://github.com/yourgithub"
+    }
+  },
+
+  "_section_experience": "EXPERIENCE",
+
+  "experience": [
+    {
+      "role": "Operation Support Analyst",
+      "company": "EVTL",
+      "period": "Mar 2024 - Jun 2025",
+      "duration": "1.5 years",
+      "highlights": [
+        "Managed 90+ international compliance projects",
+        "Built KPI dashboards for reporting",
+        "Ensured audit-ready data systems"
+      ],
+      "impact": [
+        "Achieved 100% audit readiness",
+        "Improved reporting efficiency through automation",
+        "Reduced operational errors via validation systems"
+      ],
+      "skills": ["Compliance", "Excel", "KPI Reporting", "Data Validation"]
+    },
+
+    {
+      "role": "Operation Analyst",
+      "company": "Aleph India Group",
+      "period": "Jul 2025 - Present",
+      "duration": "Current",
+      "highlights": [
+        "Managed data quality across 50+ projects",
+        "Built automated KPI dashboards",
+        "Improved reporting efficiency using Excel & Power BI"
+      ],
+      "impact": [
+        "Enabled real-time operational visibility",
+        "Standardized reporting workflows",
+        "Improved decision-making using analytics"
+      ],
+      "skills": ["Power BI", "Excel Automation", "MIS Reporting", "Data Analysis"]
+    }
+  ],
+
+  "_section_projects": "PROJECTS",
+
+  "projects": [
+    {
+      "id": 1,
+      "name": "Supply Chain Delivery Performance Dashboard",
+      "type": "ML + BI Dashboard",
+      "impact": [
+        "Built ML model for delivery delay prediction",
+        "Developed KPI dashboards for logistics insights",
+        "Automated data preprocessing pipeline"
+      ],
+      "tech": ["Python", "Pandas", "NumPy", "Power BI", "DAX", "Scikit-learn"],
+      "highlights": "End-to-end ML + BI solution for supply chain optimization"
+    },
+    {
+      "id": 2,
+      "name": "Indian Railway Delay Analysis",
+      "type": "Analytics / BI Project",
+      "impact": [
+        "Analyzed train delay patterns and congestion trends",
+        "Built multi-page Power BI dashboard",
+        "Performed feature engineering for KPIs"
+      ],
+      "tech": ["Python", "Pandas", "Power BI", "EDA", "Data Modeling"],
+      "highlights": "Transport analytics for operational optimization"
+    },
+    {
+      "id": 3,
+      "name": "Fake Job Posting Analytics",
+      "type": "Fraud Detection Dashboard",
+      "impact": [
+        "Identified fraudulent job posting patterns",
+        "Built KPIs using Power BI and DAX",
+        "Analyzed recruitment anomalies across industries"
+      ],
+      "tech": ["Power BI", "Excel", "Data Cleaning", "DAX"],
+      "highlights": "Fraud detection using business intelligence"
+    },
+    {
+      "id": 4,
+      "name": "HR Dashboard Analytics",
+      "type": "HR Analytics Dashboard",
+      "impact": [
+        "Analyzed employee attrition patterns",
+        "Identified salary and tenure issues",
+        "Built interactive HR dashboard"
+      ],
+      "tech": ["Power BI", "Excel", "Data Visualization"],
+      "highlights": "Workforce analytics for HR decision-making"
+    },
+    {
+      "id": 5,
+      "name": "Sales Dashboard",
+      "type": "Business Intelligence",
+      "impact": [
+        "Built KPI-based sales dashboard",
+        "Analyzed regional sales trends",
+        "Enabled data-driven decisions"
+      ],
+      "tech": ["Power BI", "SQL", "Data Visualization"],
+      "highlights": "Sales performance analytics system"
+    },
+    {
+      "id": 6,
+      "name": "Note Making Web App",
+      "type": "React Productivity App",
+      "impact": [
+        "Built CRUD-based note application",
+        "Implemented search and pin features",
+        "Improved productivity workflow"
+      ],
+      "tech": ["React", "Hooks", "Bootstrap"],
+      "highlights": "Productivity-focused React application"
+    },
+    {
+      "id": 7,
+      "name": "Expense Tracker",
+      "type": "Finance Tracker App",
+      "impact": [
+        "Built real-time income/expense tracker",
+        "Created financial summary dashboard",
+        "Designed responsive UI"
+      ],
+      "tech": ["React", "State Management", "Bootstrap"],
+      "highlights": "Personal finance tracking application"
+    }
+  ]
+}
